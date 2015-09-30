@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spotify_streamer_">Spotify_streamer_Activity</string>
+    <string name="title_activity_super__duo_">Super_Duo_Activity</string>
+    <string name="title_activity_scores_">Scores_Activity</string>
+    <string name="title_activity_library_">Library_Activity</string>
+    <string name="title_activity_build__it__bigger_">Build_It_Bigger_Activity</string>
+    <string name="title_activity_bacon__reader_">Bacon_Reader_Activity</string>
+    <string name="title_activity_capstone_">Capstone_Activity</string>
+    <string name="title_main">My Nanodegree Apps!</string>
+    <string name="button_spotify">Spotify Streamer</string>
+    <string name="button_scores">Scores App</string>
+    <string name="button_library">Library App</string>
+    <string name="button_buildit">Build It Bigger</string>
+    <string name="button_bacon">XYZ Reader</string>
+    <string name="button_capstone">Capstone: My Own App!</string>
+    <string name="incomplete">App Incomplete, Temporary Back To Main Menu Button</string>
+    <string name="toastscores">This button links to my Scores App</string>
+    <string name="toastspotify">This button links to my Spotify App</string>
+    <string name="toastlibrary">This button links to my Library App</string>
+    <string name="toastcapstone">This button links to my Capstone App</string>
+    <string name="toastbuildit">This button links to my Build It Bigger App</string>
+    <string name="toastbacon">This button links to my XYZ Reader App</string>
+</resources>

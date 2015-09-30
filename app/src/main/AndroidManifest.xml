@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.myappportfolio" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Spotify_streamer_Activity"
+            android:label="@string/title_activity_spotify_streamer_" >
+        </activity>
+        <activity
+            android:name=".Super_Duo_Activity"
+            android:label="@string/title_activity_super__duo_" >
+        </activity>
+        <activity
+            android:name=".Scores_Activity"
+            android:label="@string/title_activity_scores_" >
+        </activity>
+        <activity
+            android:name=".Library_Activity"
+            android:label="@string/title_activity_library_" >
+        </activity>
+        <activity
+            android:name=".Build_It_Bigger_Activity"
+            android:label="@string/title_activity_build__it__bigger_" >
+        </activity>
+        <activity
+            android:name=".Bacon_Reader_Activity"
+            android:label="@string/title_activity_bacon__reader_" >
+        </activity>
+        <activity
+            android:name=".Capstone_Activity"
+            android:label="@string/title_activity_capstone_" >
+        </activity>
+    </application>
+
+</manifest>

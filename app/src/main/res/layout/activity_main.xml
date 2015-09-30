@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="100dp"
+    android:layout_marginTop="10dp"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="0dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:layout_weight="1"
+        android:text="@string/title_main"
+        android:textSize="30sp" />
+
+    <Button
+        android:id="@+id/spotifybutton"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="#F08C35"
+        android:text="@string/button_spotify" />
+
+    <Button
+        android:id="@+id/scoresbutton"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="#F08C35"
+        android:text="@string/button_scores" />
+
+    <Button
+        android:id="@+id/librarybutton"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="#F08C35"
+        android:text="@string/button_library" />
+
+    <Button
+        android:id="@+id/builditbutton"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="#F08C35"
+        android:text="@string/button_buildit" />
+
+    <Button
+        android:id="@+id/baconbutton"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="#F08C35"
+        android:text="@string/button_bacon" />
+
+    <Button
+        android:id="@+id/capstonebutton"
+        android:layout_width="200dp"
+        android:layout_height="0dp"
+        android:layout_margin="5dp"
+        android:layout_weight="1"
+        android:background="@android:color/holo_red_light"
+        android:text="@string/button_capstone" />
+
+
+</LinearLayout>
